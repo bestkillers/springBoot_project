@@ -56,4 +56,8 @@ public class A1 {
         System.out.println("这是修改的文件记录");
     }
 
+    public void func2() {
+        System.out.println("这是修改的文件记录2");
+    }
+
 }
