@@ -52,4 +52,8 @@ public class A1 {
         System.out.println("主线程开始后续了");
     }
 
+    public void func() {
+        System.out.println("这是修改的文件记录");
+    }
+
 }
