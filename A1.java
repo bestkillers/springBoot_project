@@ -53,7 +53,7 @@ public class A1 {
     }
 
     public void func() {
-        System.out.println("这是新修改的文件记录1");
+        System.out.println("这是新修改的文件记录6789");
     }
 
     public void func2() {
